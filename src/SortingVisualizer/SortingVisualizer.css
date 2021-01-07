@@ -1,0 +1,29 @@
+.header {
+  padding-top: 10px ;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 30px;
+}
+.array-container{
+    padding:20px;
+    width: 100%;
+    top: 50px;
+}
+label {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: large;
+}
+.array-bar {
+    width: 3px;
+    display: inline-block;
+    margin: 0 2.25px;
+}
+
+.button {
+    padding:10px;
+}
+
+.button .btn{
+    margin-left: 10px;
+    margin-right: 10px;
+}
